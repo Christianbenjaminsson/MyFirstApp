@@ -87,6 +87,18 @@
 
                     </LinearLayout>
 
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="600dp"
+                        android:layout_marginBottom="10dp"
+                        android:orientation="vertical" >
+
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="49dp" />
+
+                    </LinearLayout>
+
                 </LinearLayout>
 
                 <LinearLayout
