@@ -145,10 +145,6 @@
                             android:layout_width="150dp"
                             android:layout_height="40dp" />
 
-                        <Button
-                            android:layout_width="150dp"
-                            android:layout_height="40dp" />
-
                     </LinearLayout>
 
                 </LinearLayout>
